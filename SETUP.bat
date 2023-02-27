@@ -6,11 +6,11 @@ TITLE LSPDFR SETUP
 
 ECHO ====================================================================
 
-ECHO LSPDFR SETUP (DOWNLOADER)
+ECHO LSPDFR SETUP
 
 ECHO ====================================================================
 
-ECHO Would you like to download the lastest version of LSPDFR?
+ECHO Would you like to download and install the lastest version of LSPDFR?
 
 PAUSE
 
@@ -24,19 +24,7 @@ CLS
 
 ECHO ====================================================================
 
-ECHO LSPDFR SETUP (DOWNLOADER)
-
-ECHO ====================================================================
-
-ECHO Would you like to start the LSPDFR installation?
-
-PAUSE
-
-CLS
-
-ECHO ====================================================================
-
-ECHO LSPDFR SETUP (INSTALLER)
+ECHO LSPDFR SETUP
 
 ECHO ====================================================================
 
@@ -44,13 +32,11 @@ ECHO STARTING INSTALL PROCESS...
 
 ECHO ====================================================================
 
-COPY "*" "%~dp0"
-
-ECHO ====================================================================
-
 ECHO COMPLETE!
 
 ECHO ====================================================================
+
+ECHO LSPDFR has been installed into the GTA directory! You should be ready to start patrolling! 
 
 PAUSE
 
