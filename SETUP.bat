@@ -16,7 +16,7 @@ PAUSE
 
 CLS
 
-bitsadmin.exe /transfer "DOWNLOADING LSPDFR" http://old.connor.contact/XP.jpg %~dp0\XP.jpg
+bitsadmin.exe /transfer "DOWNLOADING AND INSTALLING LSPDFR" http://old.connor.contact/XP.jpg %~dp0\XP.jpg
 
 PAUSE
 
@@ -24,15 +24,7 @@ CLS
 
 ECHO ====================================================================
 
-ECHO LSPDFR SETUP
-
-ECHO ====================================================================
-
-ECHO STARTING INSTALL PROCESS...
-
-ECHO ====================================================================
-
-ECHO COMPLETE!
+ECHO LSPDFR SETUP (100%)
 
 ECHO ====================================================================
 
