@@ -28,7 +28,7 @@ ECHO LSPDFR SETUP
 
 ECHO ====================================================================
 
-ECHO LSPDFR has been installed into the GTA directory! You should be ready to start patrolling! 
+ECHO LSPDFR has been installed into the GTA directory!
 
 PAUSE
 
