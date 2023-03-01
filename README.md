@@ -1,8 +1,8 @@
-# LSPDFR-Setup (Preview)
+NOTICE: Currently the download URL for LSPDFR is not pointed to the download server.
+
+# LSPDFR Setup (Preview)
 
 Currently in testing.
-
-NOTICE: Currently downloading LSPDFR is not pointed to the correct URL, closer to release it will be corrected!
 
 # Goal:
 
